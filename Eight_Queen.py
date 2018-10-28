@@ -78,7 +78,7 @@ def draw_board(the_board):
         pygame.display.flip()
         pygame.quit()
     
-draw_board(main())
+
             
     
         
